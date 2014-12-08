@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1417956245 source:c:\new\code\c++\ant\main.cpp
+	"Project.h"
+
+1417963439 source:c:\new\code\c++\ant\src\ant.cpp
+	"Ant.h"
+	<windows.h>
+
+1417959353 c:\new\code\c++\ant\include\ant.h
+	"Tsp_Info.h"
+	<math.h>
+	<stdlib.h>
+
+1417998037 c:\new\code\c++\ant\include\tsp_info.h
+	<stdio.h>
+
+1417952603 source:c:\new\code\c++\ant\src\tsp_info.cpp
+	"Tsp_Info.h"
+
+1417959277 c:\new\code\c++\ant\include\project.h
+	"Ant.h"
+	"Tsp_Info.h"
+	<time.h>
+
+1418000418 source:c:\new\code\c++\ant\src\project.cpp
+	"Project.h"
+
